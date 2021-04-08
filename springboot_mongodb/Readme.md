@@ -17,7 +17,8 @@
 
 ## 访问
 UserController.java
-1.http://localhost:8888/save
-2.http://localhost:8888/getUserList
-3.http://localhost:8888/update?id=1617846154290&username=111&password=222
-4.http://localhost:8888/delete?id=1617846154290
+
+1. http://localhost:8888/save
+2. http://localhost:8888/getUserList
+3. http://localhost:8888/update?id=1617846154290&username=111&password=222
+4. http://localhost:8888/delete?id=1617846154290
